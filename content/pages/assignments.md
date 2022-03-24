@@ -12,15 +12,15 @@ The case write-up should be no more than three double-spaced pages (750 words). 
      
 3.  Quelch, John A. "Google in China (B)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-510-110, April 1, 2010.  
      
-4.  Anthony, Kevin, Roger Erdong Chen, Aaron Rackoff, and Wai Yan Wong. "PPS.tv and China's Online Video Distribution Market." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 08-074, July 29, 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://mitsloan.mit.edu/LearningEdge/CaseDocs/08-074%20PPS%20tv%20Lehrich.pdf))  
+4.  Anthony, Kevin, Roger Erdong Chen, Aaron Rackoff, and Wai Yan Wong. "PPS.tv and China's Online Video Distribution Market." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 08-074, July 29, 2008. ([PDF](https://mitsloan.mit.edu/LearningEdge/CaseDocs/08-074%20PPS%20tv%20Lehrich.pdf))  
      
 5.  Huang, Yasheng, and Harold F. Hogan, Jr. "India's Intellectual Property Rights Regime and the Pharmaceutical Industry." Harvard Business School Case. Harvard Business School Publishing. Case: 9-702-039, February 21, 2002.  
      
-6.  Kalegaonkar, Archana, Richard Locke, and Jonathan Lehrich. "Biocon India Group." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 08-081, November 4, 2008 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://mitsloan.mit.edu/LearningEdge/CaseDocs/08-081%20Biocon%20India%20Group%20Case.pdf)).  
+6.  Kalegaonkar, Archana, Richard Locke, and Jonathan Lehrich. "Biocon India Group." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 08-081, November 4, 2008 ([PDF](https://mitsloan.mit.edu/LearningEdge/CaseDocs/08-081%20Biocon%20India%20Group%20Case.pdf)).  
      
 7.  Porter, Michael E., and Christian H. M. Ketels. "Indonesia: Attracting Foreign Investment." Harvard Business School Case. Harvard Business School Publishing. Case: 9-708-420, November 19, 2007.  
      
-8.  Carlisle, Erica, Chris Lin, Libby Putman, and Emily Sporl. "Mercy Corps and KeBal Healthy Food Carts: Sustaining and Scaling Up." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 10-106, September 26, 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7MB](https://mitsloan.mit.edu/LearningEdge/CaseDocs/10-106%20mercy%20corps%20and%20kebal%20lehrich.pdf))  
+8.  Carlisle, Erica, Chris Lin, Libby Putman, and Emily Sporl. "Mercy Corps and KeBal Healthy Food Carts: Sustaining and Scaling Up." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 10-106, September 26, 2010. ([PDF - 1.7MB](https://mitsloan.mit.edu/LearningEdge/CaseDocs/10-106%20mercy%20corps%20and%20kebal%20lehrich.pdf))  
       
     
 9.  Lehrich, M. Jonathan, Paul John Paredes, and Ramesh Ravikumar. "Compsis at a Crossroads." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 07-044, December 15, 2009.

@@ -14,4 +14,4 @@ Cusumano, Michael. "Dealing with the Venture Capital Crisis." _Communication of 
 
 Reavis, Cate. "Thoughts on How to Write a G-Lab Case Study." MIT Sloan School of Management, December 9, 2008. ([PDF]({{< baseurl >}}/resources/mit15_389af10_rescasestudy)) (Courtesy of Cate Reavis. Used with permission.)
 
-"Workbook B – Secondary Research." Market Street Research. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.marketstreetresearch.com/wallace/Workbook%20B%20-%20Secondary%20research.pdf))
+"Workbook B – Secondary Research." Market Street Research. ([PDF](http://www.marketstreetresearch.com/wallace/Workbook%20B%20-%20Secondary%20research.pdf))

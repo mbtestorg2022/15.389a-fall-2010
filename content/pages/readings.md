@@ -28,7 +28,7 @@ READINGS
 Stylized view of entrepreneurship
 {{< tdclose >}}
 {{< tdopen >}}
-McMillan, John, and Christopher Woodruff. "The Central Role of Entrepreneurs in Transition Economies." _Journal of Economic Perspectives_ 16, no. 3 (2002): 153-70. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pubs.aeaweb.org/doi/pdfplus/10.1257/089533002760278767))
+McMillan, John, and Christopher Woodruff. "The Central Role of Entrepreneurs in Transition Economies." _Journal of Economic Perspectives_ 16, no. 3 (2002): 153-70. ([PDF](https://pubs.aeaweb.org/doi/pdfplus/10.1257/089533002760278767))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +84,7 @@ Talbot, David. "[China's Internet Paradox](https://www.technologyreview.com/2010
 The pressure to expand: China; Team dynamics
 {{< tdclose >}}
 {{< tdopen >}}
-Anthony, Kevin, Roger Erdong Chen, Aaron Rackoff, and Wai Yan Wong. "PPS.tv and China's Online Video Distribution Market." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 08-074, July 29, 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://mitsloan.mit.edu/LearningEdge/CaseDocs/08-074%20PPS%20tv%20Lehrich.pdf))
+Anthony, Kevin, Roger Erdong Chen, Aaron Rackoff, and Wai Yan Wong. "PPS.tv and China's Online Video Distribution Market." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 08-074, July 29, 2008. ([PDF](https://mitsloan.mit.edu/LearningEdge/CaseDocs/08-074%20PPS%20tv%20Lehrich.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +108,7 @@ Huang, Yasheng, and Harold F. Hogan, Jr. "India's Intellectual Property Rights R
 National advantages in a global industry: India
 {{< tdclose >}}
 {{< tdopen >}}
-Kalegaonkar, Archana, Richard Locke, and Jonathan Lehrich. "Biocon India Group." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 08-081, November 4, 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://mitsloan.mit.edu/LearningEdge/CaseDocs/08-081%20Biocon%20India%20Group%20Case.pdf))
+Kalegaonkar, Archana, Richard Locke, and Jonathan Lehrich. "Biocon India Group." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 08-081, November 4, 2008. ([PDF](https://mitsloan.mit.edu/LearningEdge/CaseDocs/08-081%20Biocon%20India%20Group%20Case.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +132,7 @@ Porter, Michael E., and Christian H. M. Ketels. "Indonesia: Attracting Foreign I
 International expansion: Indonesia
 {{< tdclose >}}
 {{< tdopen >}}
-Carlisle, Erica, Chris Lin, Libby Putman, and Emily Sporl. "Mercy Corps and KeBal Healthy Food Carts: Sustaining and Scaling Up." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 10-106, September 26, 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7MB](https://mitsloan.mit.edu/LearningEdge/CaseDocs/10-106%20mercy%20corps%20and%20kebal%20lehrich.pdf))
+Carlisle, Erica, Chris Lin, Libby Putman, and Emily Sporl. "Mercy Corps and KeBal Healthy Food Carts: Sustaining and Scaling Up." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 10-106, September 26, 2010. ([PDF - 1.7MB](https://mitsloan.mit.edu/LearningEdge/CaseDocs/10-106%20mercy%20corps%20and%20kebal%20lehrich.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +144,7 @@ Carlisle, Erica, Chris Lin, Libby Putman, and Emily Sporl. "Mercy Corps and KeBa
 Working in a G-Lab project
 {{< tdclose >}}
 {{< tdopen >}}
-Lehrich, M. Jonathan, Paul John Paredes, and Ramesh Ravikumar. "Compsis at a Crossroads." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 07-044, December 15, 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://mitsloan.mit.edu/LearningEdge/CaseDocs/07-044-compsis-at-a-crossroads-lehrich.pdf))
+Lehrich, M. Jonathan, Paul John Paredes, and Ramesh Ravikumar. "Compsis at a Crossroads." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 07-044, December 15, 2009. ([PDF](https://mitsloan.mit.edu/LearningEdge/CaseDocs/07-044-compsis-at-a-crossroads-lehrich.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
